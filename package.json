@@ -1,0 +1,44 @@
+{
+    "name": "com.nulligma.game4x",
+    "displayName": "Game4x",
+    "version": "1.0.0",
+    "description": "A sample Apache Cordova application that responds to the deviceready event.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Apache Cordova Team",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "cc.fovea.cordova.purchase": "^7.2.8",
+        "cordova-android": "^7.1.4",
+        "cordova-plugin-admobpro": "^2.37.2",
+        "cordova-plugin-extension": "^1.5.4",
+        "cordova-plugin-nativestorage": "^2.3.2",
+        "cordova-plugin-play-games-services": "^1.1.0",
+        "cordova-plugin-whitelist": "^1.3.3",
+        "cordova-plugin-x-socialsharing": "^5.4.4",
+        "es6-promise-plugin": "^4.2.2"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-whitelist": {},
+            "cc.fovea.cordova.purchase": {
+                "BILLING_KEY": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiWYbFPndfYcY4iUSY70UK8R7a90Hs8p1D+QQNe27/fmlXLz/GG80SxQ4w6XUrDG9NxnOxdv+VLfNlPcJO+0tf454kCIDRTX/dYBVvd36oiz/jFYRuIriHRGPstupV0/PA0T8jf3rMs/hhy8QkdM76zYzwoxceK4E9c9ugmUIBfxM+8Ngls+ZmQs+DBMWj3+qFVAVJJv61YfAGXj93LQlwpPKUZS2ztW9DAer8O8xn1Ofq2hrwO33Ke0wcMWsLBU7VKyDRfTnepvpJFH8Z8SSqjN4rQGwI39sRhS0TA3My1Z2wTettXOvQCIK8OlhTW47S3QJo9SDGqnoukRPhd9qNQIDAQAB"
+            },
+            "cordova-plugin-x-socialsharing": {
+                "ANDROID_SUPPORT_V4_VERSION": "24.1.1+"
+            },
+            "cordova-plugin-play-games-services": {
+                "APP_ID": "356591663614"
+            },
+            "cordova-plugin-admobpro": {
+                "PLAY_SERVICES_VERSION": "16.0.0"
+            },
+            "cordova-plugin-nativestorage": {}
+        },
+        "platforms": [
+            "android"
+        ]
+    }
+}

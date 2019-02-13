@@ -1,0 +1,41 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.nulligma.Game4x"
+    },
+    "cc.fovea.cordova.purchase": {
+      "BILLING_KEY": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiWYbFPndfYcY4iUSY70UK8R7a90Hs8p1D+QQNe27/fmlXLz/GG80SxQ4w6XUrDG9NxnOxdv+VLfNlPcJO+0tf454kCIDRTX/dYBVvd36oiz/jFYRuIriHRGPstupV0/PA0T8jf3rMs/hhy8QkdM76zYzwoxceK4E9c9ugmUIBfxM+8Ngls+ZmQs+DBMWj3+qFVAVJJv61YfAGXj93LQlwpPKUZS2ztW9DAer8O8xn1Ofq2hrwO33Ke0wcMWsLBU7VKyDRfTnepvpJFH8Z8SSqjN4rQGwI39sRhS0TA3My1Z2wTettXOvQCIK8OlhTW47S3QJo9SDGqnoukRPhd9qNQIDAQAB",
+      "PACKAGE_NAME": "com.nulligma.Game4x"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "ANDROID_SUPPORT_V4_VERSION": "24.1.1+",
+      "PACKAGE_NAME": "com.nulligma.Game4x"
+    },
+    "cordova-plugin-play-games-services": {
+      "APP_ID": "356591663614",
+      "PACKAGE_NAME": "com.nulligma.Game4x"
+    },
+    "cordova-plugin-admobpro": {
+      "PLAY_SERVICES_VERSION": "16.0.0",
+      "PACKAGE_NAME": "com.nulligma.Game4x"
+    },
+    "cordova-plugin-nativestorage": {
+      "PACKAGE_NAME": "com.nulligma.Game4x"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.nulligma.Game4x"
+    },
+    "cordova-plugin-extension": {
+      "PACKAGE_NAME": "com.nulligma.Game4x"
+    }
+  }
+}

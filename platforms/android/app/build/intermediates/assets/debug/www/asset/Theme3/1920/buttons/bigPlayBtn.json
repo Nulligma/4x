@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"bigPlayBtn0000":
+{
+	"frame": {"x":0,"y":0,"w":260,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":264},
+	"sourceSize": {"w":260,"h":264}
+},
+"bigPlayBtn0001":
+{
+	"frame": {"x":0,"y":268,"w":260,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":264},
+	"sourceSize": {"w":260,"h":264}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "bigPlayBtn.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}

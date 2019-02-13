@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"audioOnBtn0000":
+{
+	"frame": {"x":0,"y":0,"w":157,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":200},
+	"sourceSize": {"w":157,"h":200}
+},
+"audioOnBtn0001":
+{
+	"frame": {"x":0,"y":204,"w":157,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":200},
+	"sourceSize": {"w":157,"h":200}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "audioOnBtn.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}

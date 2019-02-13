@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"pmBtn0000":
+{
+	"frame": {"x":0,"y":0,"w":260,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":144},
+	"sourceSize": {"w":260,"h":144}
+},
+"pmBtn0001":
+{
+	"frame": {"x":0,"y":148,"w":260,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":144},
+	"sourceSize": {"w":260,"h":144}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "pmBtn.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.nulligma.Game4x" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>4x</name>
+    <description>
+        Match 2 puzzle game
+    </description>
+    <author email="admin@nulligma.com" href="http://nulligma.com">
+        Nulligma
+    </author>
+    <content src="index.html" />
+    <plugin name="cordova-plugin-whitelist" spec="1" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+        <icon density="ldpi" src="res/icon/android/icon36.png" />
+        <icon density="mdpi" src="res/icon/android/icon48.png" />
+        <icon density="hdpi" src="res/icon/android/icon72.png" />
+        <icon density="xhdpi" src="res/icon/android/icon96.png" />
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+    </platform>
+    <plugin name="cc.fovea.cordova.purchase" spec="^7.2.8">
+        <variable name="BILLING_KEY" value="MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiWYbFPndfYcY4iUSY70UK8R7a90Hs8p1D+QQNe27/fmlXLz/GG80SxQ4w6XUrDG9NxnOxdv+VLfNlPcJO+0tf454kCIDRTX/dYBVvd36oiz/jFYRuIriHRGPstupV0/PA0T8jf3rMs/hhy8QkdM76zYzwoxceK4E9c9ugmUIBfxM+8Ngls+ZmQs+DBMWj3+qFVAVJJv61YfAGXj93LQlwpPKUZS2ztW9DAer8O8xn1Ofq2hrwO33Ke0wcMWsLBU7VKyDRfTnepvpJFH8Z8SSqjN4rQGwI39sRhS0TA3My1Z2wTettXOvQCIK8OlhTW47S3QJo9SDGqnoukRPhd9qNQIDAQAB" />
+    </plugin>
+    <plugin name="cordova-plugin-x-socialsharing" spec="^5.4.4">
+        <variable name="ANDROID_SUPPORT_V4_VERSION" value="24.1.1+" />
+    </plugin>
+    <plugin name="cordova-plugin-play-games-services" spec="^1.1.0">
+        <variable name="APP_ID" value="356591663614" />
+    </plugin>
+    <plugin name="cordova-plugin-admobpro" spec="^2.37.2">
+        <variable name="PLAY_SERVICES_VERSION" value="16.0.0" />
+    </plugin>
+    <plugin name="cordova-plugin-nativestorage" spec="^2.3.2" />
+    <engine name="android" spec="^7.1.4" />
+</widget>

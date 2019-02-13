@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"help0000":
+{
+	"frame": {"x":0,"y":0,"w":193,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":42,"w":193,"h":245},
+	"sourceSize": {"w":193,"h":245}
+},
+"help0001":
+{
+	"frame": {"x":197,"y":0,"w":193,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":42,"w":193,"h":245},
+	"sourceSize": {"w":193,"h":245}
+},
+"help0002":
+{
+	"frame": {"x":0,"y":131,"w":193,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":42,"w":193,"h":245},
+	"sourceSize": {"w":193,"h":245}
+},
+"help0003":
+{
+	"frame": {"x":197,"y":131,"w":193,"h":245},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":245},
+	"sourceSize": {"w":193,"h":245}
+},
+"help0004":
+{
+	"frame": {"x":0,"y":380,"w":184,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":42,"w":193,"h":245},
+	"sourceSize": {"w":193,"h":245}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "help.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"buyBtn0000":
+{
+	"frame": {"x":0,"y":0,"w":120,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":117},
+	"sourceSize": {"w":120,"h":117}
+},
+"buyBtn0001":
+{
+	"frame": {"x":0,"y":121,"w":120,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":117},
+	"sourceSize": {"w":120,"h":117}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "buyBtn.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1"
+}
+}

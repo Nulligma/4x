@@ -1,0 +1,43 @@
+﻿{"frames": {
+
+"purchasePrice0000":
+{
+	"frame": {"x":0,"y":0,"w":49,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":54,"h":19},
+	"sourceSize": {"w":54,"h":19}
+},
+"purchasePrice0001":
+{
+	"frame": {"x":0,"y":23,"w":54,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":19},
+	"sourceSize": {"w":54,"h":19}
+},
+"purchasePrice0002":
+{
+	"frame": {"x":0,"y":46,"w":54,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":19},
+	"sourceSize": {"w":54,"h":19}
+},
+"purchasePrice0003":
+{
+	"frame": {"x":0,"y":69,"w":54,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":19},
+	"sourceSize": {"w":54,"h":19}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "purchasePrice.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":128},
+	"scale": "1"
+}
+}

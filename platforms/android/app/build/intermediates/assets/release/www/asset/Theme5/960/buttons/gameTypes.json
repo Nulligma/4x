@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"gameTypes0000":
+{
+	"frame": {"x":0,"y":0,"w":156,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":34},
+	"sourceSize": {"w":156,"h":34}
+},
+"gameTypes0001":
+{
+	"frame": {"x":0,"y":38,"w":156,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":34},
+	"sourceSize": {"w":156,"h":34}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "gameTypes.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}
